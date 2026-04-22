@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🖧 MSTP + HSRP/VRRP High Availability Lab in GNS3
 
 Projekt przedstawia implementację **topologii wysokiej dostępności** w środowisku **GNS3** z wykorzystaniem **routerów Cisco 7200**, **przełączników Cisco IOU L2** oraz **hostów VPCS**.
@@ -93,7 +92,3 @@ W projekcie wykonano następujące testy:
 ## 👤 Autor
 
 **Błażej Osowski**
-=======
-# mstp-hsrp-vrrp-high-availability-gns3
-GNS3 high availability lab with MSTP, HSRP/VRRP, Cisco 7200, IOU L2, VLANs, trunking, and failover tests
->>>>>>> e6d3c3764edd8e0d7c3429e39a7989d6ee0a7b5d
